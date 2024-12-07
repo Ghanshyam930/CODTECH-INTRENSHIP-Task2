@@ -14,7 +14,8 @@ Overview of the project:
 
 project tittle- WEATHER FORECAST APP
 
-![Uploading Screenshot 2024-12-07 130209.png…]()
+![Screenshot 2024-12-07 130209](https://github.com/user-attachments/assets/c0167301-5977-4074-a199-85162186bdf0)
+
 
 objective
 
