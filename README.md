@@ -14,7 +14,7 @@ Overview of the project:
 
 project tittle- WEATHER FORECAST APP
 
-C:\Users\golup\Pictures\Screenshots\Screenshot 2024-12-07 130209.png
+![Uploading Screenshot 2024-12-07 130209.png…]()
 
 objective
 
